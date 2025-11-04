@@ -1,5 +1,5 @@
 # 🎵 Remira - AI-Powered Family Photo Song Generator
-
+# Link- https://www.linkedin.com/posts/arkajyoti-saha-likdien_introducing-remira-an-ai-powered-photo-album-activity-7391257484163940352-0l0R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC74UKMBreJVVegnZLnl7kFx446bD5fgTkA 
 **Transform your cherished family memories into personalized musical masterpieces**
 
 Remira is an innovative AI-powered application that analyzes your family photos, understands their emotional context, and creates a complete original song with custom lyrics, melodious instrumental music, and expressive vocals—all generated using cutting-edge open-source AI models.
