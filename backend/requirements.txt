@@ -1,0 +1,23 @@
+# Core ML stack
+torch==2.3.1
+accelerate==0.33.0
+transformers==4.45.2
+sentencepiece
+safetensors
+
+# Diffusers + audio
+diffusers[audio]==0.31.0
+
+# Audio / numeric libs
+numpy<2
+scipy
+soundfile
+
+# Vision / HTTP
+requests
+Pillow
+
+# Web framework
+fastapi
+python-multipart
+pydantic

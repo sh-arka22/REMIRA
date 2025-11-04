@@ -1,0 +1,14 @@
+# macOS noise
+.DS_Store
+
+# Local screen recordings
+*.mov
+
+# Python cache
+__pycache__/
+
+# Modal volumes / artifacts (if created locally)
+volumes/
+
+# Node modules or Lovable exports (if applicable)
+node_modules/

@@ -132,8 +132,8 @@ Family Photos → BLIP-2 Image Analysis → LLM Story Summary → Custom Lyrics 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd Remira
+   git clone https://github.com/sh-arka22/REMIRA.git
+   cd REMIRA
    ```
 
 2. **Set up Python environment**
@@ -417,7 +417,8 @@ This project uses open-source models and libraries. Please check individual mode
 
 ## 📧 Contact & Support
 
-For questions, issues, or contributions, please open an issue in the repository.
+- File detailed issues or ask questions at https://github.com/sh-arka22/REMIRA/issues.
+- Submit pull requests against `main` for enhancements or fixes.
 
 ---
 
